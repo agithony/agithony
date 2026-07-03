@@ -13,6 +13,8 @@
 
 I write code on stage in front of a crowd. You'll find me at meetups, conferences, hackathons, or online communities.
 
+Visit [my website](https://www.agithony.com) and find all its Easter eggs.
+
 ---
 
 <!--
