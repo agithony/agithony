@@ -1,6 +1,6 @@
-<!--
+
 <div align="center">
-  <a href="https://anthonydellavecchia.com">
+  <a href="https://agithony.com">
     <img src="https://raw.githubusercontent.com/anthonyjdella/anthonyjdella/main/anthony-logo.svg?sanitize=true">
   </a>
 
@@ -15,6 +15,7 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
 
 ---
 
+<!--
 ### 👥 Social
 
 - 🐦 [Twitter @anthonyjdella](https://twitter.com/anthonyjdella)
@@ -91,9 +92,10 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
 - 🧙 [Magic Numbers](https://anthonydellavecchia.com/blog/magic-numbers/) | April 17, 2021
 - 💼 [How to Never Miss Out on a Job Opening](https://anthonydellavecchia.com/blog/how-to-never-miss-out-on-a-job-opening/) | March 21, 2018
   </div>
+-->
 
-
-  <!--<table>
+<!--
+  <table>
   <tr>
     <th>Contributions</th>
     <th>Stats</th>
@@ -109,7 +111,7 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
   <img src="https://komarev.com/ghpvc/?username=anthonyjdella&style=flat-square&color=5d78ff" />
   </p>
 
-  <!--
+<!--
   <a href="https://www.linkedin.com/in/anthonydellavecchia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/anthonyjdella" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://tiktok.com/@anthonyjdella" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
